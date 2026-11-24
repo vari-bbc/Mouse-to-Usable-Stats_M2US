@@ -1,0 +1,13 @@
+name: Stats_Mouse_To_Usable_M2U
+title: Stats_Mouse_To_Usable_M2U
+username: vai-bbc
+account: vai-bbc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17556870
+bundleId: 12799113
+url: https://vai-bbc.shinyapps.io/Stats_Mouse_To_Usable_M2U/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|ABATree.csv

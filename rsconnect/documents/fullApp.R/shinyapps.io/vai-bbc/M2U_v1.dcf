@@ -1,0 +1,13 @@
+name: M2U_v1
+title: M2U_v1
+username: vai-bbc
+account: vai-bbc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13448552
+bundleId: 9713590
+url: https://vai-bbc.shinyapps.io/M2U_v1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes
